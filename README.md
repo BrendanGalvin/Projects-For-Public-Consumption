@@ -1,0 +1,1 @@
+This repository will hold miscellaneous projects, both personally made for fun and those made for school that I later modified out of curiosity (such as adding an AI for a Tic Tac Toe game we made,) just for version control and public record.
